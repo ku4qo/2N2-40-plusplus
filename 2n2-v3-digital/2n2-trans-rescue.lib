@@ -1,0 +1,142 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# 2N2222A-digikey
+#
+DEF 2N2222A-digikey Q 0 0 Y Y 1 F N
+F0 "Q" -126 166 60 H V L CNN
+F1 "2N2222A-digikey" 206 0 60 V V C CNN
+F2 "digikey-footprints:TO-18-3" 200 200 60 H I L CNN
+F3 "https://my.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N2221A.PDF" 200 300 60 H I L CNN
+F4 "2N2222ACS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "2N2222A" 200 500 60 H I L CNN "MPN"
+F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
+F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
+F8 "https://my.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N2221A.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/central-semiconductor-corp/2N2222A/2N2222ACS-ND/4806845" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "TRANS NPN 40V 0.8A TO-18" 200 1000 60 H I L CNN "Description"
+F11 "Central Semiconductor Corp" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+C 0 0 128 0 1 0 f
+P 2 0 1 0 -150 0 -100 0 N
+P 2 0 1 0 -140 0 0 0 N
+P 2 0 1 0 0 -50 100 -100 N
+P 2 0 1 0 0 50 100 100 N
+P 2 0 1 0 0 100 0 -100 N
+P 4 0 1 0 60 -50 80 -90 40 -100 60 -50 F
+X E 1 100 -200 100 U 50 50 1 1 P
+X B 2 -200 0 100 R 50 50 1 1 I
+X C 3 100 200 100 D 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 42TM003-RC-SamacSys_Parts
+#
+DEF 42TM003-RC-SamacSys_Parts T 0 30 Y Y 1 F N
+F0 "T" 1050 300 50 H V L CNN
+F1 "42TM003-RC-SamacSys_Parts" 1050 200 50 H V L CNN
+F2 "DIPS1270W61P356L2200H1699Q6N" 1050 100 50 H I L CNN
+F3 "https://componentsearchengine.com/Datasheets/1/42TM003-RC.pdf" 1050 0 50 H I L CNN
+F4 "Audio Transformers / Signal Transformers XFMR OUT 1.2KCT/8CT" 1050 -100 50 H I L CNN "Description"
+F5 "16.993" 1050 -200 50 H I L CNN "Height"
+F6 "42TM003-RC" 1050 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.com/Search/Refine.aspx?Keyword=42TM003-RC" 1050 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Xicon" 1050 -500 50 H I L CNN "Manufacturer_Name"
+F9 "42TM003-RC" 1050 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 5 0 1 6 200 100 1000 100 1000 -300 200 -300 200 100 N
+X PRI_1 1 0 0 200 R 50 50 0 0 U
+X PRI_2 2 0 -100 200 R 50 50 0 0 U
+X PRI_3 3 0 -200 200 R 50 50 0 0 U
+X SEC_1 4 1200 -200 200 L 50 50 0 0 U
+X SEC_2 5 1200 -100 200 L 50 50 0 0 U
+X SEC_3 6 1200 0 200 L 50 50 0 0 U
+ENDDRAW
+ENDDEF
+#
+# J175-D26Z-dk_Transistors-JFETs
+#
+DEF J175-D26Z-dk_Transistors-JFETs Q 0 0 Y Y 1 F N
+F0 "Q" -100 200 60 H V C CNN
+F1 "J175-D26Z-dk_Transistors-JFETs" 0 -250 60 H V R BNN
+F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L CNN
+F3 "https://www.onsemi.com/pub/Collateral/J175-D.PDF" 200 300 60 H I L CNN
+F4 "J175-D26ZCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "J175-D26Z" 200 500 60 H I L CNN "MPN"
+F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
+F7 "Transistors - JFETs" 200 700 60 H I L CNN "Family"
+F8 "https://www.onsemi.com/pub/Collateral/J175-D.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/on-semiconductor/J175-D26Z/J175-D26ZCT-ND/3504321" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "JFET P-CH 30V 0.35W TO92" 200 1000 60 H I L CNN "Description"
+F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+C 0 0 152 1 1 0 f
+P 2 0 1 0 -25 -100 -25 100 N
+P 2 0 1 0 -25 0 -175 0 N
+P 3 0 1 0 -25 -75 100 -75 100 -150 N
+P 3 0 1 0 -25 75 100 75 100 150 N
+P 4 1 1 0 -75 25 -75 -25 -25 0 -75 25 F
+X D 1 100 -300 200 U 50 50 1 1 B
+X G 2 -300 0 200 R 50 50 1 1 I
+X S 3 100 300 200 D 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+# Nokia5110
+#
+DEF Nokia5110 U 0 40 Y Y 1 F N
+F0 "U" -400 550 50 H V C CNN
+F1 "Nokia5110" 250 550 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S 450 -350 -450 450 0 1 0 N
+X RST 1 -350 -450 100 U 50 50 1 1 I
+X CE 2 -250 -450 100 U 50 50 1 1 I
+X DC 3 -150 -450 100 U 50 50 1 1 I
+X Dir 4 -50 -450 100 U 50 50 1 1 I
+X Clk 5 50 -450 100 U 50 50 1 1 I
+X Vcc 6 150 -450 100 U 50 50 1 1 I
+X BL 7 250 -450 100 U 50 50 1 1 I
+X Gnd 8 350 -450 100 U 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# OLED-096
+#
+DEF OLED-096 U 0 40 Y Y 1 F N
+F0 "U" -400 400 50 H V C CNN
+F1 "OLED-096" 0 -300 50 H V C CNN
+F2 "" 50 100 50 H I C CNN
+F3 "" 50 100 50 H I C CNN
+DRAW
+S -250 200 250 -250 0 1 0 N
+X GND 1 -150 300 100 D 50 50 1 1 I
+X VCC 2 -50 300 100 D 50 50 1 1 I
+X SCL 3 50 300 100 D 50 50 1 1 I
+X SDA 4 150 300 100 D 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# si5351-module
+#
+DEF si5351-module U 0 40 Y Y 1 F N
+F0 "U" -500 250 50 H V C CNN
+F1 "si5351-module" -50 250 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S 200 -300 -550 150 0 1 0 N
+X clk0 1 -500 -400 100 U 50 50 1 1 I
+X clk1 2 -400 -400 100 U 50 50 1 1 I
+X clk2 3 -300 -400 100 U 50 50 1 1 I
+X SCL 4 -200 -400 100 U 50 50 1 1 I
+X SDA 5 -100 -400 100 U 50 50 1 1 I
+X GND 6 0 -400 100 U 50 50 1 1 I
+X V3.3 7 100 -400 100 U 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library

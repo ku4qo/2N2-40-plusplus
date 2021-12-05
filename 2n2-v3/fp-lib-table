@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name SamacSys_Parts)(type KiCad)(uri C:/Users/mike/Documents/kicad/libs/SamacSys_Parts.pretty)(options "")(descr ""))
+  (lib (name custom)(type KiCad)(uri C:/Users/mike/Documents/kicad/libs/custom.pretty)(options "")(descr ""))
+)

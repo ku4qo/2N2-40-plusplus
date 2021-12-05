@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name SamacSys_Parts)(type KiCad)(uri C:/Users/mike/Documents/kicad/libs/SamacSys_Parts.pretty)(options "")(descr ""))
+  (lib (name custom)(type KiCad)(uri C:/Users/mike/Documents/kicad/libs/custom.pretty)(options "")(descr ""))
+  (lib (name 2n2-v3-digital)(type KiCad)(uri C:/Users/mikemo/Documents/kicad/2n2-v3-digital.pretty)(options "")(descr ""))
+  (lib (name oled)(type KiCad)(uri C:/Users/mike/Documents/kicad/oled.pretty)(options "")(descr ""))
+)

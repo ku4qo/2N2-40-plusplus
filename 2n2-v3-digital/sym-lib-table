@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name 2n2-trans-rescue)(type Legacy)(uri ${KIPRJMOD}/2n2-trans-rescue.lib)(options "")(descr ""))
+  (lib (name SamacSys_Parts)(type Legacy)(uri C:/Users/mikemo/Documents/kicad/libs/SamacSys_Parts.lib)(options "")(descr ""))
+  (lib (name dk_Transistors-JFETs)(type Legacy)(uri C:/Users/mikemo/Documents/kicad/libs/digikey-kicad-library-master/digikey-symbols/dk_Transistors-JFETs.lib)(options "")(descr ""))
+  (lib (name dk_Transistors-Bipolar-BJT-Single)(type Legacy)(uri C:/Users/mikemo/Documents/kicad/libs/digikey-kicad-library-master/digikey-symbols/dk_Transistors-Bipolar-BJT-Single.lib)(options "")(descr ""))
+)
