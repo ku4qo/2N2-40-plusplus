@@ -1,4 +1,5 @@
 # 2N2-40-plusplus
+This is very much an "alpha" level project. Proceed only if you want to get your hands dirty :)
 Arduino software for the KU4QO version of K8IQY's 2n2-40 transceiver 
 This is a work-in-progress. 
 *VFO Program to run 2N2-40++ digital Transceiver - Press and hold enter on power up to start calibration
