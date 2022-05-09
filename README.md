@@ -8,7 +8,7 @@ This is a work-in-progress.
 *temporarily used for calibrating the 25 MHz si5351 clock during the clock calibration routine.
 *This version uses a Nokia 5110 LCD display.  Calibration routines use the enter button to advance.
 *
-Additional construction notes follow for these "alpha" version boards
+Additional construction notes follow for these "alpha" version boards. See files "digital board mods" for additional details.
 
 Attached is a photo of the digital board. There are a bunch of changes needed, so I figured a picture would help to follow along as well. Also attached are schematics of the boards as they were manufactured, along with lots of chicken-scratch writing about mods and values that were changed. You can see that the analog board is pretty much correct as-is, apart from a missing cap and a few value changes.
 
